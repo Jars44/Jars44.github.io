@@ -1,0 +1,26 @@
+*,
+html {
+  margin:0px ;
+  padding:0px ;
+}
+
+.box {
+  width: 100%;
+  display: flex;
+  justify-content: flex-start;
+  margin-top: 100px;
+}
+
+.div { 
+  display: flex;
+  align-items: center;
+  font-size: 70px;
+  margin-left: 30px;
+}
+
+.img-CONTENT {
+  width: 20%;
+  height: 190px;
+  display: flex;
+  margin-left: 120px;
+}
