@@ -1,0 +1,62 @@
+*,
+html {
+  margin:0px ;
+  padding:0px ;
+}
+
+body {
+  background-color: #3dd7f8;
+  
+}
+
+.container {
+}
+
+.div-CONTAINER {
+  background-color: #535353;
+  height: 6vh;
+}
+
+.ul-NAVBAR {
+  display: flex;
+  height: 110px;
+  justify-content: center;
+  align-items: center;
+}
+
+.li-NAVBAR {
+  list-style-type: none;
+  padding: 2vh;
+  margin: 4px;
+  color: white;
+  font-size: 35px;
+}
+
+.a-NAVBAR {
+  color: white;
+  text-decoration: none;
+}
+
+.FOOTER {
+  background-color: #535353;
+  height: 3vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 30px;
+  color: white;
+  margin-top: 813px;
+}
+
+.box{
+  width: 100%;
+  background-color: #3dd7f8;
+  display: flex;
+  justify-content: space-evenly;
+  margin-top: 690px;
+  
+.social-media-icon {
+  color: black;
+  font-size: 100px;
+  margin: 10px;
+}
